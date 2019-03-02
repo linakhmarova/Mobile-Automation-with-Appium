@@ -2,8 +2,8 @@ Mobile Automation test in Appium
 =======
 This project is Mobile automation sanity test for BuyMe (android app)
 
-**App name:** BUYME
-**OS:** Android
+**App name:** BUYME  
+**OS:** Android  
 **Device:** Samsung J7  
 **Language:** Java  
 **Platform:** Linux (ubuntu)  
